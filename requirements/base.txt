@@ -1,0 +1,11 @@
+pytest==6.2.5
+pytest-cov==3.0.0
+
+#linting
+flake8==3.9.0
+flake8-print==3.1.4
+flake8-quotes==3.0.0
+flake8-lineleak==1.0.2
+pep8-naming==0.10.0
+black==22.3.0
+mypy==0.931
